@@ -1,12 +1,12 @@
 <?php
 
-namespace App\View\Components\user;
+namespace App\View\Components\User;
 
 use Closure;
 use Illuminate\Contracts\View\View;
 use Illuminate\View\Component;
 
-class topbar extends Component
+class Topbar extends Component
 {
     /**
      * Create a new component instance.
