@@ -3,7 +3,7 @@
     <div class="logo-header" data-background-color="white">
 
         <a href="index.html" class="logo">
-            <img src="{{ asset('assets/img/logo/logo-header.png') }}" alt="navbar brand" class="navbar-brand"
+            <img src="{{ asset('assets/img/logo/Logo-header.png') }}" alt="navbar brand" class="navbar-brand"
                 width="100px">
         </a>
         <button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse"
